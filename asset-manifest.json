@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/job-listing-react/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/job-listing-react/static/js/main.cd92629a.chunk.js",
+    "main.js.map": "/job-listing-react/static/js/main.cd92629a.chunk.js.map",
+    "runtime-main.js": "/job-listing-react/static/js/runtime-main.dc2c6226.js",
+    "runtime-main.js.map": "/job-listing-react/static/js/runtime-main.dc2c6226.js.map",
+    "static/js/2.00667e30.chunk.js": "/job-listing-react/static/js/2.00667e30.chunk.js",
+    "static/js/2.00667e30.chunk.js.map": "/job-listing-react/static/js/2.00667e30.chunk.js.map",
+    "index.html": "/job-listing-react/index.html",
+    "precache-manifest.0650e7b6afc46d3bfe0c168c58eaa22b.js": "/job-listing-react/precache-manifest.0650e7b6afc46d3bfe0c168c58eaa22b.js",
+    "service-worker.js": "/job-listing-react/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/job-listing-react/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.00667e30.chunk.js.LICENSE.txt": "/job-listing-react/static/js/2.00667e30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc2c6226.js",
+    "static/js/2.00667e30.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.cd92629a.chunk.js"
+  ]
+}
