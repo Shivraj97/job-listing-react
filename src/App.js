@@ -67,7 +67,10 @@ function App() {
                 >
                   {filter}
                 </span>
-                <span className="bg-teal-500 font-bold text-md p-2 mr-4 text-teal-100">
+                <span
+                  onClick={() => handleFilterClick(filter)}
+                  className="bg-teal-500 font-bold text-md cursor-pointer p-2 mr-4 text-teal-100"
+                >
                   Χ
                 </span>
               </Fragment>
