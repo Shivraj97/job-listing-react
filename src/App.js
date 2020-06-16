@@ -54,7 +54,7 @@ function App() {
       <div className="container m-auto">
         {filters.length > 0 && (
           <div
-            className={`flex bg-white shadow-md -my-20 mb-16 my-12 mx-10 p-6 rounded z-10 relative`}
+            className={`flex flex-wrap bg-white shadow-md -my-20 mb-16 my-12 mx-10 p-6 rounded z-10 relative`}
           >
             {filters.map((filter) => (
               <Fragment>
