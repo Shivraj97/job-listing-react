@@ -19,11 +19,11 @@ const JobBoardComponent = ({ job, handleTagClick }) => {
   const tags = [role, level];
 
   if (tools) {
-    tags.push(...languages);
+    tags.push(...tools);
   }
 
   if (languages) {
-    tags.push(...tools);
+    tags.push(...languages);
   }
 
   return (
