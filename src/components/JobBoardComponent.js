@@ -30,7 +30,7 @@ const JobBoardComponent = ({ job, handleTagClick }) => {
     <div
       className={`flex flex-col bg-white shadow-md my-12 mx-10 p-6 rounded ${
         featured && "border-l-4 border-teal-500 border-solid"
-      } lg:flex-row lg:my-8`}
+      } lg:flex-row lg:my-4`}
     >
       <div>
         <img

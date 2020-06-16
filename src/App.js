@@ -51,10 +51,10 @@ function App() {
       <header className="bg-teal-500 mb-12">
         <img className="w-full" src={headerImage} alt="header-background" />
       </header>
-      <div className="container mx-auto">
+      <div className="container m-auto">
         {filters.length > 0 && (
           <div
-            className={`flex flex-wrap bg-white shadow-md -my-20 mb-16 my-12 mx-10 p-6 rounded z-10 relative`}
+            className={`flex bg-white shadow-md -my-20 mb-16 my-12 mx-10 p-6 rounded z-10 relative`}
           >
             {filters.map((filter) => (
               <Fragment>
@@ -66,7 +66,7 @@ function App() {
                 </span>
                 <span
                   onClick={() => handleFilterClick(filter)}
-                  className="bg-teal-500 font-bold text-md cursor-pointer p-2 mr-4 text-teal-100"
+                  className="bg-teal-500 font-bold text-md cursor-pointer p-2 mr-4 text-teal-100 lg:mb-0"
                 >
                   Χ
                 </span>
