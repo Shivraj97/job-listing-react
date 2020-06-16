@@ -1,22 +1,33 @@
 {
   "files": {
     "main.css": "/job-listing-react/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/job-listing-react/static/js/main.cd92629a.chunk.js",
-    "main.js.map": "/job-listing-react/static/js/main.cd92629a.chunk.js.map",
+    "main.js": "/job-listing-react/static/js/main.2bf8c08f.chunk.js",
+    "main.js.map": "/job-listing-react/static/js/main.2bf8c08f.chunk.js.map",
     "runtime-main.js": "/job-listing-react/static/js/runtime-main.dc2c6226.js",
     "runtime-main.js.map": "/job-listing-react/static/js/runtime-main.dc2c6226.js.map",
-    "static/js/2.00667e30.chunk.js": "/job-listing-react/static/js/2.00667e30.chunk.js",
-    "static/js/2.00667e30.chunk.js.map": "/job-listing-react/static/js/2.00667e30.chunk.js.map",
+    "static/js/2.253211c6.chunk.js": "/job-listing-react/static/js/2.253211c6.chunk.js",
+    "static/js/2.253211c6.chunk.js.map": "/job-listing-react/static/js/2.253211c6.chunk.js.map",
     "index.html": "/job-listing-react/index.html",
-    "precache-manifest.0650e7b6afc46d3bfe0c168c58eaa22b.js": "/job-listing-react/precache-manifest.0650e7b6afc46d3bfe0c168c58eaa22b.js",
+    "precache-manifest.5d96a1c83bf6a7a4a76178b54eb7e6c4.js": "/job-listing-react/precache-manifest.5d96a1c83bf6a7a4a76178b54eb7e6c4.js",
     "service-worker.js": "/job-listing-react/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/job-listing-react/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.00667e30.chunk.js.LICENSE.txt": "/job-listing-react/static/js/2.00667e30.chunk.js.LICENSE.txt"
+    "static/js/2.253211c6.chunk.js.LICENSE.txt": "/job-listing-react/static/js/2.253211c6.chunk.js.LICENSE.txt",
+    "static/media/account.svg": "/job-listing-react/static/media/account.9f72c13b.svg",
+    "static/media/bg-header-desktop.svg": "/job-listing-react/static/media/bg-header-desktop.6e2f7196.svg",
+    "static/media/eyecam-co.svg": "/job-listing-react/static/media/eyecam-co.39eaebdf.svg",
+    "static/media/faceit.svg": "/job-listing-react/static/media/faceit.76faa79f.svg",
+    "static/media/insure.svg": "/job-listing-react/static/media/insure.52b85a50.svg",
+    "static/media/loop-studios.svg": "/job-listing-react/static/media/loop-studios.6c50fd74.svg",
+    "static/media/manage.svg": "/job-listing-react/static/media/manage.fbe431a9.svg",
+    "static/media/myhome.svg": "/job-listing-react/static/media/myhome.e0ad9358.svg",
+    "static/media/photosnap.svg": "/job-listing-react/static/media/photosnap.3f34b49c.svg",
+    "static/media/shortly.svg": "/job-listing-react/static/media/shortly.45f63772.svg",
+    "static/media/the-air-filter-company.svg": "/job-listing-react/static/media/the-air-filter-company.23b515f9.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dc2c6226.js",
-    "static/js/2.00667e30.chunk.js",
+    "static/js/2.253211c6.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.cd92629a.chunk.js"
+    "static/js/main.2bf8c08f.chunk.js"
   ]
 }
