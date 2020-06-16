@@ -1,6 +1,7 @@
 import React, { useState, useEffect, Fragment } from "react";
 import JobBoardComponent from "./components/JobBoardComponent";
-import data from "./assets/data.json";
+import data from "./assets/data/data";
+import headerImage from "./assets/images/bg-header-desktop.svg";
 
 function App() {
   const [jobs, setJobs] = useState([]);
@@ -48,13 +49,9 @@ function App() {
   return (
     <>
       <header className="bg-teal-500 mb-12">
-        <img
-          className="w-full"
-          src="/images/bg-header-desktop.svg"
-          alt="header-background"
-        />
+        <img className="w-full" src={headerImage} alt="header-background" />
       </header>
-      <div className="container m-auto">
+      <div className="container mx-auto">
         {filters.length > 0 && (
           <div
             className={`flex flex-wrap bg-white shadow-md -my-20 mb-16 my-12 mx-10 p-6 rounded z-10 relative`}
